@@ -1,4 +1,8 @@
 # repo_teste
 
-Alterar este arquivo
+#include <stdio.h>
+
+int main(){
+    printf("Olá mundo");
+}
 
